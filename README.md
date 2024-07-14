@@ -8,7 +8,7 @@ Hola [Nombre],
 
 En el ajetreo diario, encontrar tiempo para cuidar de nuestra salud mental puede ser un desafío. Pero, ¿y si te dijera que la IA puede ser tu aliada en este camino?
 
-Nuestra app, [Nombre de la app], utiliza la inteligencia artificial para ofrecerte herramientas personalizadas que te ayudarán a:
+Nuestra app, SerenAI, utiliza la inteligencia artificial para ofrecerte herramientas personalizadas que te ayudarán a:
 
 - **Combatir el estrés y la ansiedad:** Aprende técnicas de relajación y meditación guiada diseñadas para ti.
 - **Mejorar tu estado de ánimo:** Lleva un registro de tus emociones y recibe consejos para cultivar la positividad.
@@ -23,4 +23,4 @@ No importa si eres un experto en tecnología o si apenas estás comenzando, nues
 
 Un abrazo,
 
-El equipo de [Nombre de tu empresa/campaña]
+El equipo de SerenAI.
